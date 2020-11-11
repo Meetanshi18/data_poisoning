@@ -1,4 +1,4 @@
-Data Poisoning attacks in linear regression models
+# Data Poisoning attacks in linear regression models
 Major 1 Project
 
 Attack - StatP (Statistical based poisoning attack)
